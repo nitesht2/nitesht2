@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cryptos, E-Commerce, Digital Marketing
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 How to reach me ...
+- 📫 You can reach me at: nt004v@gmail.com
 
 <!---
 nitesht2/nitesht2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
