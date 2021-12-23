@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitesh Thapa
-- 👀 I’m interested in Cryptos, E-Commerce, Digital Marketing
+- 👀 I’m interested in Blockchain technology/Crypto, E-Commerce, Digital Marketing
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 You can reach me at: nt004v@gmail.com
