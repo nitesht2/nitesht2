@@ -4,7 +4,7 @@
 
 🌱 Tools: SQL, Excel, Python, Tableau
 
-🌱 Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Database, Dashboard Design and Development
+🌱 Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Database, Dashboard Design
 
 🌱 Certification: Google Data Analytics Professional | Udacity Business Data Analytics Certification
 
