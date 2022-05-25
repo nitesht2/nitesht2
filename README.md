@@ -11,6 +11,12 @@
 
 ✨ Ongoing project/studies: Learning Machine Learning ie. scikit-learn, linear regressions, different types of algorithms
 
+📚 Projects & Guides 📚
+
+- Click HERE for my projects and guides
+- Resource to learn SQL, Python, Tableau
+
+
 
 <!---
 nitesht2/nitesht2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
