@@ -4,7 +4,7 @@
 
 I design and operate production data systems that drive business decisions. At Living Spaces, I manage 30+ automated workflows, build BigQuery data models, and integrate cross-platform analytics (Adobe Analytics, Placer.ai) serving leadership-level insights across 40+ retail locations.
 
-Open to **Analytics Engineer**, **Data Engineer**, **Data Analyst**, and **AI/Automation Engineer** roles.
+Open to **Data Analyst**, **Analytics Engineer**, **Data Engineer**, **Data Analyst**, and **AI/Automation Engineer** roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshthapa2/)
 [![Twitter](https://img.shields.io/badge/@NiteshTechAI-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/NiteshTechAI)
