@@ -20,6 +20,9 @@ I design and operate production data systems that drive business decisions. At L
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 | Domain | Tools |
@@ -28,7 +31,8 @@ I design and operate production data systems that drive business decisions. At L
 | **Cloud** | GCP (BigQuery, GCS, Cloud Data Fusion, Cloud Composer) |
 | **Languages** | Python, SQL, JavaScript/React |
 | **BI & Analytics** | Adobe Analytics, Placer.ai, Tableau |
-| **AI/Automation** | Claude API, Ollama, LangChain, FFmpeg |
+| **AI/LLM** | OpenAI API, Anthropic (Claude) API, Google Gemini, Ollama, DeepSeek, LangChain, CrewAI, Tavily, Exa |
+| **Automation** | Scrapling, Playwright, FFmpeg, Pillow, MoviePy |
 
 ---
 
@@ -42,6 +46,18 @@ I design and operate production data systems that drive business decisions. At L
 | **[marketing-intelligence-agent](https://github.com/nitesht2/marketing-intelligence-agent)** | AI-powered marketing analytics agent with real-time campaign insights and competitive intelligence | JavaScript, Node.js, Claude API |
 | **[yt-researcher](https://github.com/nitesht2/yt-researcher)** | Python CLI that fetches YouTube transcripts as clean Markdown/JSON. Zero API keys, one dependency | Python, argparse |
 | **[baagchal](https://github.com/nitesht2/baagchal)** | Browser-based PWA of the traditional Nepali strategy board game (4 Tigers vs 20 Goats). [Play it live](https://nitesht2.github.io/baagchal/) | HTML, CSS, JavaScript |
+
+---
+
+### Private Projects (not open-source yet)
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **Algorithmic Trading Bot** | Paper trading bot executing the Big 3 strategy (stacked EMAs, MACD, ATR trailing stops, squeeze detection) across 12 symbols | Python, Alpaca API, Technical Analysis |
+| **Retail Deals Bot** | Monitors Nike, Adidas, Walmart for 50%+ price drops and auto-posts deals to Twitter | Python, Scrapling, Tweepy, SQLite, APScheduler |
+| **Multi-Agent AI System** | Orchestrator managing specialized agents for research, content generation, and trading analysis | Python, OpenAI API, Anthropic API, LangChain |
+| **AI-Powered Content Pipeline** | Automated video generation for a YouTube channel (25+ videos published), from audio processing to 10-hour ambient video renders | Python, FFmpeg, Pillow, MoviePy |
+| **Enterprise Analytics Demo** | Claude-powered retail analytics tool surfacing declining-market insights from Adobe Analytics + Placer.ai + campaign spend data | Python, Claude API, BigQuery |
 
 ---
 
