@@ -1,69 +1,63 @@
-# Nitesh Thapa
+# Hi, I'm Nitesh Thapa
 
-**Data Engineer | AI & Automation | Building Intelligent Data Systems**
+**Data Engineer at Living Spaces Furniture | Building Scalable Data Pipelines & AI-Powered Analytics**
 
-I design data pipelines, automate workflows, and build AI-powered tools. Currently at Living Spaces Furniture, where I manage 30+ Alteryx workflows, BigQuery analytics, and cross-platform reporting.
+I design and operate production data systems that drive business decisions. At Living Spaces, I manage 30+ automated Alteryx workflows, BigQuery analytics pipelines, and cross-platform reporting integrations (Adobe Analytics, Placer.ai) serving leadership-level insights across 50+ retail locations.
 
-Outside of work, I build trading bots, content automation tools, and open-source games.
+I'm looking for my next opportunity as an **Analytics Engineer**, **Data Engineer**, or **AI/Automation Engineer**.
 
----
-
-### What I Build
-
-**Data Pipelines & Engineering**
-- Production ETL/ELT pipelines (Alteryx, Airflow, dbt, BigQuery)
-- GCP data infrastructure with automated orchestration
-- Adobe Analytics and Placer.ai integrations for retail intelligence
-
-**AI & Automation**
-- Multi-agent AI systems with Claude, DeepSeek, and local LLMs (Ollama)
-- Automated video generation pipeline for YouTube (FFmpeg, Pillow, Python)
-- Web scraping and deal detection bots with anti-detection capabilities
-- Algorithmic trading bot (Alpaca API, EMA/MACD/ATR strategies)
-
-**Content & Media**
-- [NiteshTechAI](https://twitter.com/NiteshTechAI) on Twitter/X covering AI tools, dev news, and fintech
-- [Sleep Focus Meditation Music](https://www.youtube.com/@SleepFocusMeditation) YouTube channel (25+ videos, fully automated pipeline)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshthapa2/)
+[![Twitter](https://img.shields.io/badge/@NiteshTechAI-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/NiteshTechAI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nt004v@gmail.com)
 
 ---
 
 ### Tech Stack
 
-```
-Languages       Python, SQL, JavaScript, React
-Data            BigQuery, Alteryx, dbt, Airflow, Adobe Analytics, Placer.ai
-Cloud           GCP (BigQuery), AWS, Azure
-AI/ML           Claude API, Ollama, DeepSeek, LangChain, CrewAI
-Automation      FFmpeg, Pillow, MoviePy, Scrapling, Playwright
-Trading         Alpaca API, Technical Analysis (EMA, MACD, ATR, Squeeze)
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+| Domain | Tools |
+|--------|-------|
+| **Data Engineering** | BigQuery, Alteryx, dbt, Airflow, Airbyte, PostgreSQL |
+| **Cloud** | GCP (BigQuery, GCS, Cloud Data Fusion, Cloud Composer) |
+| **Languages** | Python, SQL, JavaScript/React |
+| **BI & Analytics** | Adobe Analytics, Placer.ai, Tableau |
+| **AI/Automation** | Claude API, Ollama, LangChain, FFmpeg |
 
 ---
 
 ### Featured Projects
 
-| Project | Description |
-|---------|------------|
-| [gcp-secure-employee-pipeline](https://github.com/nitesht2/gcp-secure-employee-pipeline) | GCP pipeline: Python to GCS to Cloud Data Fusion (salary masking + SHA-256 hashing) to BigQuery to Tableau |
-| [crypto-etl-pipeline](https://github.com/nitesht2/crypto-etl-pipeline) | End-to-end ETL for cryptocurrency data using Python, PostgreSQL, and Airflow |
-| [bigstar-data-pipeline](https://github.com/nitesht2/bigstar-data-pipeline) | ELT pipeline: Postgres to Airbyte to BigQuery to dbt |
-| [sfm-video-generator](https://github.com/nitesht2/sfm-video-generator) | Automated video generation for YouTube. Python, FFmpeg, Pillow |
-| [baagchal](https://github.com/nitesht2/baagchal) | Browser-based PWA of the traditional Nepali strategy board game (Tigers vs Goats) |
-| [yt-researcher](https://github.com/nitesht2/yt-researcher) | CLI tool that fetches YouTube transcripts as clean Markdown and JSON. Zero API keys |
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **[gcp-secure-employee-pipeline](https://github.com/nitesht2/gcp-secure-employee-pipeline)** | Production-grade GCP pipeline with PII protection (salary masking, SHA-256 hashing), daily Airflow orchestration, and Tableau dashboards | Python, GCS, Cloud Data Fusion, BigQuery, Airflow, Tableau |
+| **[crypto-etl-pipeline](https://github.com/nitesht2/crypto-etl-pipeline)** | End-to-end ETL extracting live cryptocurrency data from CoinGecko API, transforming with pandas, loading into PostgreSQL with Airflow scheduling | Python, PostgreSQL, Airflow, pandas |
+| **[bigstar-data-pipeline](https://github.com/nitesht2/bigstar-data-pipeline)** | ELT pipeline: Postgres source to BigQuery warehouse via Airbyte ingestion and dbt transformations | Postgres, Airbyte, BigQuery, dbt |
+| **[marketing-intelligence-agent](https://github.com/nitesht2/marketing-intelligence-agent)** | AI-powered marketing analytics agent with real-time campaign insights and competitive intelligence | JavaScript, Node.js, Claude API |
+| **[yt-researcher](https://github.com/nitesht2/yt-researcher)** | Python CLI that fetches YouTube transcripts as clean Markdown/JSON. Zero API keys, one dependency | Python, argparse |
+| **[baagchal](https://github.com/nitesht2/baagchal)** | Browser-based PWA of the traditional Nepali strategy board game (4 Tigers vs 20 Goats). [Play it live](https://nitesht2.github.io/baagchal/) | HTML, CSS, JavaScript |
 
 ---
 
-### Currently Working On
+### What I Do at Work
 
-- Algorithmic trading bot with Alpaca paper trading (Big 3 strategy, 12 symbols)
+- **Pipeline Automation**: Manage 30+ Alteryx workflows processing daily data feeds across retail operations
+- **Analytics Engineering**: Build and maintain BigQuery data models powering cross-functional dashboards
+- **Reporting Integration**: Connect Adobe Analytics, Placer.ai foot traffic data, and campaign spend into unified views
+- **AI Proof-of-Concept**: Building Claude-powered analytics demo surfacing declining-market insights for leadership
+
+---
+
+### Currently Building
+
+- Algorithmic trading bot (Alpaca paper trading, EMA/MACD/ATR strategies, 12 symbols)
 - Retail deals bot that auto-detects 50%+ discounts from Nike, Adidas, Walmart
-- Multi-agent AI control center with specialized agents for research, content, and trading
-- Claude-powered analytics demo for enterprise retail insights
-
----
-
-### Connect
-
-- Twitter/X: [@NiteshTechAI](https://twitter.com/NiteshTechAI)
-- Email: nt004v@gmail.com
-- Location: California
+- Multi-agent AI system with specialized agents for research, content, and trading
