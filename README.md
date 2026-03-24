@@ -1,10 +1,10 @@
 # Hi, I'm Nitesh Thapa
 
-**Data Engineer at Living Spaces Furniture | Building Scalable Data Pipelines & AI-Powered Analytics**
+**Analytics Engineer & Data Engineer | AI/Automation | Living Spaces Furniture**
 
-I design and operate production data systems that drive business decisions. At Living Spaces, I manage 30+ automated Alteryx workflows, BigQuery analytics pipelines, and cross-platform reporting integrations (Adobe Analytics, Placer.ai) serving leadership-level insights across 50+ retail locations.
+I design and operate production data systems that drive business decisions. At Living Spaces, I manage 30+ automated Alteryx workflows, build BigQuery data models, and integrate cross-platform analytics (Adobe Analytics, Placer.ai) serving leadership-level insights across 50+ retail locations.
 
-I'm looking for my next opportunity as an **Analytics Engineer**, **Data Engineer**, or **AI/Automation Engineer**.
+I'm looking for my next opportunity as an **Analytics Engineer**, **Data Engineer**, **Data Analyst**, or **AI/Automation Engineer**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshthapa2/)
 [![Twitter](https://img.shields.io/badge/@NiteshTechAI-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/NiteshTechAI)
@@ -49,9 +49,9 @@ I'm looking for my next opportunity as an **Analytics Engineer**, **Data Enginee
 
 ### What I Do at Work
 
-- **Pipeline Automation**: Manage 30+ Alteryx workflows processing daily data feeds across retail operations
-- **Analytics Engineering**: Build and maintain BigQuery data models powering cross-functional dashboards
-- **Reporting Integration**: Connect Adobe Analytics, Placer.ai foot traffic data, and campaign spend into unified views
+- **Analytics Engineering**: Build and maintain BigQuery data models and Alteryx workflows powering cross-functional dashboards
+- **Data Analysis**: Surface insights from Adobe Analytics, Placer.ai foot traffic data, and campaign spend for leadership decisions
+- **Pipeline Automation**: Manage 30+ automated data pipelines processing daily feeds across retail operations
 - **AI Proof-of-Concept**: Building Claude-powered analytics demo surfacing declining-market insights for leadership
 
 ---
