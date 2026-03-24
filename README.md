@@ -4,6 +4,8 @@
 
 I design and operate production data systems that drive business decisions. At Living Spaces, I manage 30+ automated workflows, build BigQuery data models, and integrate cross-platform analytics (Adobe Analytics, Placer.ai) serving leadership-level insights across 40+ retail locations.
 
+Open to **Analytics Engineer**, **Data Engineer**, **Data Analyst**, and **AI/Automation Engineer** roles.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshthapa2/)
 [![Twitter](https://img.shields.io/badge/@NiteshTechAI-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/NiteshTechAI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nt004v@gmail.com)
@@ -67,11 +69,3 @@ I design and operate production data systems that drive business decisions. At L
 - **Data Analysis**: Surface insights from Adobe Analytics, Placer.ai foot traffic data, and campaign spend for leadership decisions
 - **Pipeline Automation**: Manage 30+ automated data pipelines processing daily feeds across retail operations
 - **AI Proof-of-Concept**: Building Claude-powered analytics demo surfacing declining-market insights for leadership
-
----
-
-### Currently Building
-
-- Algorithmic trading bot (Alpaca paper trading, EMA/MACD/ATR strategies, 12 symbols)
-- Retail deals bot that auto-detects 50%+ discounts from Nike, Adidas, Walmart
-- Multi-agent AI system with specialized agents for research, content, and trading
