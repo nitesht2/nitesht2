@@ -1,6 +1,6 @@
 # Hi, I'm Nitesh Thapa
 
-**Analytics Engineer & Data Engineer | AI/Automation | Living Spaces Furniture**
+**Data Analyst at Living Spaces Furniture | Python, SQL, BigQuery, Airflow, dbt**
 
 I design and operate production data systems that drive business decisions. At Living Spaces, I manage 30+ automated Alteryx workflows, build BigQuery data models, and integrate cross-platform analytics (Adobe Analytics, Placer.ai) serving leadership-level insights across 50+ retail locations.
 
