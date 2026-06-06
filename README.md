@@ -1,12 +1,12 @@
 # Hi, I'm Nitesh Thapa 👋
 
-**Data Analyst at Living Spaces | Analytics Engineering · Data Pipelines · AI-powered Analytics**
+**Analytics Engineer | Data Engineer | Building production data pipelines and AI-powered analytics**
 
-I build and operate production data systems that drive business decisions. At Living Spaces, I run **30+ automated workflows**, build **BigQuery** data models, and integrate cross-platform analytics (Adobe Analytics, Placer.ai) into leadership-level insights across **40+ retail locations**.
+At Living Spaces, I run **30+ automated workflows**, build **BigQuery** data models, and integrate cross-platform analytics (Adobe Analytics, Placer.ai) into leadership-level insights across **40+ retail locations**.
 
-Open to **Senior Data Analyst**, **Analytics Engineer**, **Data Engineer**, and **AI/Automation Engineer** roles.
+Open to **Analytics Engineer**, **Senior Data Analyst**, **Data Engineer**, and **AI/Automation Engineer** roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshtthapa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesht2/)
 [![Twitter](https://img.shields.io/badge/@NiteshTechAI-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/NiteshTechAI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nt004v@gmail.com)
 
@@ -39,9 +39,9 @@ Open to **Senior Data Analyst**, **Analytics Engineer**, **Data Engineer**, and 
 |---------|-------------|-------|
 | **[gcp-secure-employee-pipeline](https://github.com/nitesht2/gcp-secure-employee-pipeline)** | Production GCP pipeline with PII protection (salary masking, SHA-256 hashing), daily Airflow orchestration, and Tableau dashboards | Python, GCS, Cloud Data Fusion, BigQuery, Airflow, Tableau |
 | **[crypto-etl-pipeline](https://github.com/nitesht2/crypto-etl-pipeline)** | End-to-end ETL extracting live crypto data from CoinGecko, transforming with pandas, loading into PostgreSQL with Airflow scheduling | Python, PostgreSQL, Airflow, pandas |
+| **[bigstar-data-pipeline](https://github.com/nitesht2/bigstar-data-pipeline)** | End-to-end ELT pipeline: Postgres → Airbyte → BigQuery → dbt with full data modeling layer | Postgres, Airbyte, BigQuery, dbt |
 | **[second-brain-ai](https://github.com/nitesht2/second-brain-ai)** | Always-on AI agent that reads articles, videos, and tweets into a self-organizing Obsidian wiki you query in plain English — runs 24/7 on a VPS for ~$8–15/mo | Python, Hermes Agent, DeepSeek, Obsidian |
 | **[marketing-intelligence-agent](https://github.com/nitesht2/marketing-intelligence-agent)** | Web-based AI analyst answering natural-language questions about campaigns, stores, and demographics — grounded in data, never invents numbers | Node.js, Express, Claude API |
-| **[transcript-api](https://github.com/nitesht2/transcript-api)** | Self-hostable FastAPI service that transcribes TikTok/Instagram videos locally with Whisper — no per-minute fees | FastAPI, yt-dlp, faster-whisper |
 | **[yt-researcher](https://github.com/nitesht2/yt-researcher)** | Python CLI that fetches YouTube transcripts as clean Markdown/JSON. Zero API keys, one dependency | Python, argparse |
 
 *Also built: [baagchal](https://github.com/nitesht2/baagchal) — a browser PWA of the traditional Nepali strategy board game ([play it live](https://nitesht2.github.io/baagchal/)).*
