@@ -6,7 +6,7 @@ At Living Spaces, I run **30+ automated workflows**, build **BigQuery** data mod
 
 Open to **Analytics Engineer**, **Senior Data Analyst**, **Data Engineer**, and **AI/Automation Engineer** roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesht2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshtthapa/)
 [![Twitter](https://img.shields.io/badge/@NiteshTechAI-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/NiteshTechAI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nt004v@gmail.com)
 
