@@ -1,6 +1,6 @@
 # Hi, I'm Nitesh Thapa 👋
 
-**Analytics Engineer | Data Engineer | Building production data pipelines and AI-powered analytics**
+**Data and Analytics Engineer | Data Engineer | Building production data pipelines and AI-powered analytics**
 
 At Living Spaces, I run **30+ automated workflows**, build **BigQuery** data models, and integrate cross-platform analytics (Adobe Analytics, Placer.ai) into leadership-level insights across **40+ retail locations**.
 
