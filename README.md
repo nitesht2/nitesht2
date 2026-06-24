@@ -12,6 +12,13 @@ Open to **Analytics Engineer**, **Senior Data Analyst**, **Data Engineer**, and 
 
 ---
 
+### 📈 GitHub Activity
+
+![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitesht2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nitesht2&hide_border=true)
+
+---
+
 ### 🛠️ Tech Stack
 
 | Domain | Tools |
@@ -40,6 +47,8 @@ Open to **Analytics Engineer**, **Senior Data Analyst**, **Data Engineer**, and 
 | **[gcp-secure-employee-pipeline](https://github.com/nitesht2/gcp-secure-employee-pipeline)** | Production GCP pipeline with PII protection (salary masking, SHA-256 hashing), daily Airflow orchestration, and Tableau dashboards | Python, GCS, Cloud Data Fusion, BigQuery, Airflow, Tableau |
 | **[crypto-etl-pipeline](https://github.com/nitesht2/crypto-etl-pipeline)** | End-to-end ETL extracting live crypto data from CoinGecko, transforming with pandas, loading into PostgreSQL with Airflow scheduling | Python, PostgreSQL, Airflow, pandas |
 | **[bigstar-data-pipeline](https://github.com/nitesht2/bigstar-data-pipeline)** | End-to-end ELT pipeline: Postgres → Airbyte → BigQuery → dbt with full data modeling layer | Postgres, Airbyte, BigQuery, dbt |
+| **[Bellabeat-Case-Study](https://github.com/nitesht2/Bellabeat-Case-Study)** | End-to-end data-analysis case study on Fitbit usage — cleaning, sleep & activity analysis, and marketing recommendations in Python | Python, pandas, matplotlib |
+| **[Marketing-Promotional-Impact-Analysis](https://github.com/nitesht2/Marketing-Promotional-Impact-Analysis)** | Interactive Tableau dashboard measuring promotional impact on 2017 sales — cross-filtered KPIs for marketing decisions | Tableau, Excel |
 | **[second-brain-ai](https://github.com/nitesht2/second-brain-ai)** | Always-on AI agent that reads articles, videos, and tweets into a self-organizing Obsidian wiki you query in plain English — runs 24/7 on a VPS for ~$8–15/mo | Python, Hermes Agent, DeepSeek, Obsidian |
 | **[marketing-intelligence-agent](https://github.com/nitesht2/marketing-intelligence-agent)** | Web-based AI analyst answering natural-language questions about campaigns, stores, and demographics — grounded in data, never invents numbers | Node.js, Express, Claude API |
 | **[yt-researcher](https://github.com/nitesht2/yt-researcher)** | Python CLI that fetches YouTube transcripts as clean Markdown/JSON. Zero API keys, one dependency | Python, argparse |
