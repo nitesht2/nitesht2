@@ -12,13 +12,6 @@ Open to **Analytics Engineer**, **Senior Data Analyst**, **Data Engineer**, and 
 
 ---
 
-### 📈 GitHub Activity
-
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitesht2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=nitesht2&hide_border=true)
-
----
-
 ### 🛠️ Tech Stack
 
 | Domain | Tools |
